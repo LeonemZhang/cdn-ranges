@@ -2,7 +2,7 @@ const axios = require('axios')
 
 module.exports = async () => {
   const { data } = await axios.get(
-    'https://ip-ranges.amazonaws.com/ip-ranges.json'
+    'https://d7uri8nf7uskq.cloudfront.net/tools/list-cloudfront-ips'
   )
 
   return data.prefixes.reduce((arr, { service, ip_prefix }) => {

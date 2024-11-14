@@ -17,7 +17,7 @@ Akamai | "AS12222", "AS16625", "AS16702", "AS17204", "AS18680", "AS18717", "AS20
 CacheFly |  https://cachefly.cachefly.net/ips/rproxy.txt
 CDNetworks | "AS36408", "AS38107"
 Cloudflare | https://www.cloudflare.com/ips-v4
-CloudFront | https://ip-ranges.amazonaws.com/ip-ranges.json
+CloudFront | https://d7uri8nf7uskq.cloudfront.net/tools/list-cloudfront-ips
 DDoS Guard | "AS57724"
 Fastly | https://api.fastly.com/public-ip-list
 Incapsula | https://my.incapsula.com/api/integration/v1/ips
